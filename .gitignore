@@ -1,0 +1,12 @@
+bin/
+node_modules/
+bin
+node_modules
+appsettings.json
+appsettings.json/
+.env
+.env.local
+.env/
+.env.local/
+uploads/
+uploads
